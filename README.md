@@ -10,5 +10,8 @@ pip install -r requirements.txt
 ```python
 python main.py
 ```
-4. Enjoy it :)
+4. 在你的仓库的wenhook设置中，按照如下内容填写
+![image](https://user-images.githubusercontent.com/53247097/215059457-56f2f8ee-9d8b-4913-a177-cff92d5a9a40.png)
+
+5. Enjoy it :)
 如果你有其他疑问，可以查阅飞书官方文档，或者提issue
