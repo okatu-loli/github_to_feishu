@@ -15,3 +15,4 @@ python main.py
 
 5. Enjoy it :)
 如果你有其他疑问，可以查阅飞书官方文档，或者提issue
+如果你有一些很棒的点子，也欢迎你提issue或者pr
