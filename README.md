@@ -1,6 +1,7 @@
 # GTF：Github to Feishu
 通过webhook将GitHub仓库的变动推送到飞书平台
 ## 使用
+（以下内容默认你已经克隆并在命令行中打开了本项目）
 1. 安装依赖
 ```
 pip install -r requirements.txt
