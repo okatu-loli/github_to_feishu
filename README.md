@@ -4,5 +4,5 @@
 ```
 docker pull cnqianshi/gtf
 ```
-默认为5000端口
+默认为5000端口  
 启动镜像后请进入镜像修改main.py文件第40行双引号内内容为你的飞书机器人的webhook
