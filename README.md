@@ -1,7 +1,7 @@
 # GTF：Github to Feishu
 通过webhook将GitHub仓库的变动推送到飞书平台
 ## 使用
-（如需docker请切换到docker分支）
+（如需docker请切换到docker分支）  
 （以下内容默认你已经克隆并在命令行中打开了本项目）
 1. 安装依赖
 ```
